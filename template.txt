@@ -8,6 +8,8 @@ Enter instructions here
 
 ## Expected Result
 Explain expected behavior/outcome
+If more than one thing to check, consider using checkboxes (example included below)
+- [ ] Checkbox format 
 
 ## Reference
 (if applicable)
